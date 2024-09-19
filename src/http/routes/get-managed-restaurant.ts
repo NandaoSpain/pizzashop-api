@@ -19,3 +19,4 @@ export const getManagedRestaurant = new Elysia()
 
     return restaurant
   })
+ 
